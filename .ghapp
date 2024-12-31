@@ -1,0 +1,10 @@
+{
+  "id": 59006625,
+  "created_at": "2024-12-31T09:52:59.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["r-resourcecode", "r-resourcecodedata", "resourcecode-project.r-universe.dev"]
+}
