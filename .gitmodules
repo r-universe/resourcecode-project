@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/resourcecode-project/resourcecode-project.r-universe.dev
 	branch = HEAD
 [submodule "resourcecode"]
 	path = resourcecode
-	url = https://github.com/resourcecode-project/r-resourcecode
+	url = https://github.com/Resourcecode-project/r-resourcecode
+[submodule "resourcecodedata"]
+	path = resourcecodedata
+	url = https://github.com/Resourcecode-project/r-resourcecodedata
